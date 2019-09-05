@@ -24,7 +24,7 @@ var (
 		// TODO(mdlayher): find a way to always determine if the output is
 		// month-first or day-first.
 		"02/01/06",
-		"02/01/2006"
+		"02/01/2006",
 	}
 
 	// errInvalidKeyValuePair is returned when a message is not in the expected
