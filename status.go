@@ -19,7 +19,7 @@ var (
 	// from a NIS.
 	timeFormatShort = []string{
 		"2006-01-02",
-		"01/02/06",
+		"01/02/2006",
 		// Also try European-style format.
 		// TODO(mdlayher): find a way to always determine if the output is
 		// month-first or day-first.
