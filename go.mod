@@ -1,3 +1,3 @@
-module github.com/inkdude/apcupsd
+module github.com/jdgrierson/apcupsd
 
 go 1.12
